@@ -1,4 +1,4 @@
-# npmgo
+# napam
 
 Starts your repository no matter the command.
 
@@ -9,12 +9,12 @@ Goes through `npm run start:dev`, `npm run dev`, and `npm start` (in that order)
 This package depends on `zx`, so install that as well:
 
 ```bash
-npm i -g zx npmgo
+npm i -g zx napam
 ```
 
 ## Usage
 
 ```bash
-npmgo
+napam
 ```
 
