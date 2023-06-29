@@ -1,6 +1,6 @@
 #!/usr/bin/env zx
 
-import "zx/globals";
+/// <reference types="zx/globals" />
 
 const SCRIPT_NAMES = ["start:dev", "dev", "start"];
 

@@ -5,7 +5,7 @@
   "bin": "./bin.mjs",
   "type": "module",
   "scripts": {
-    "build": "esbuild ./index.ts --bundle --platform=node --packages=external --outfile=bin.mjs --format=esm"
+    "build": "esbuild ./index.mts --bundle --platform=node --packages=external --outfile=bin.mjs --format=esm "
   },
   "keywords": [],
   "author": "",
